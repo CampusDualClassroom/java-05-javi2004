@@ -6,7 +6,6 @@ public class Exercise05 {
         checkMultiply(15,5);
         checkPositiveNegative(1);
     }
-
     //TODO ↓
     // Si el valor es menor, tiene que devolver el siguiente mensaje: X es menor que Y
     // Si el valor es mayor o igual, tiene que devolver el siguiente mensaje: X es mayor o igual que Y
@@ -17,7 +16,6 @@ public class Exercise05 {
             System.out.println(n1+" es mayor o igual que "+n2);
         }
     }
-
     //TODO ↓
     // Si es múltiplo, tiene que devolver el siguiente mensaje: X es múltiplo de Y
     // Si no es múltiplo, tiene que devolver el siguiente mensaje: X no es múltiplo de Y
@@ -29,7 +27,6 @@ public class Exercise05 {
 
         }
     }
-
     //TODO ↓
     // Si es negativo, tiene que devolver el siguiente mensaje: X es negativo.
     // Si es positivo o cero, tiene que devolver el siguiente mensaje: X es positivo.
